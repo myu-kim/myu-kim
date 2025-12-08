@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:bc81d2,50:9667a8,100:704d7e&height=100&section=header&text=myukim&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:bc81d2,50:9667a8,100:704d7e&height=100&section=header&text=안녕하세요&fontColor=ffffff&fontSize=40"/>
 
 <h2>Welcome to my lab</h2>
 <h4>I’m currently developing iOS apps, with interests in cross-platform and web development.</h4>
