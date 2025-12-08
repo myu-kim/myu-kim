@@ -1,10 +1,13 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:bc81d2,50:9667a8,100:704d7e&height=100&section=header&text=안녕하세요&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:584fd5,50:8d65ba,100:a974bd&height=100&section=header&text=안녕하세요&animation=fadein&fontColor=ffffff&fontSize=40"/>
 
 <br>
 
-<h3>Welcome</h3>
-<p>I’m currently developing iOS apps, with interests in cross-platform and web development.</p>
+<h3>About Me</h3>
+<p>
+  I’m currently developing iOS apps and exploring cross-platform and web development.<br>
+  I’m also learning to build fun and creative apps.
+</p>
 
 <h3>Tech Stack</h3>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -24,6 +27,6 @@
 <br>
 
 <h3>Get In Touch</h3>
-<p>You can contact me at</p>
+<p>You can contact me at...</p>
 <a href="https://www.instagram.com/duskinblue/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
